@@ -42,6 +42,7 @@
 * Waifu2x（图片在线无损放大）：[http://waifu2x.udp.jp/](http://waifu2x.udp.jp/)
 * Bigjpg（图片放大）：[http://bigjpg.com/](http://bigjpg.com/)
 * ILOVEIMG（在线图片编辑器）：[https://www.iloveimg.com](https://www.iloveimg.com/)
+* PracticalWebTools（1,400+ 免费浏览器工具：PDF 编辑/转换、图片/音频转换、200+ 计算器，本地处理）：[https://practicalwebtools.com/](https://practicalwebtools.com/)
 * 视频解析网（微博，秒拍，快手，抖音）：[https://www.parsevideo.com/](https://www.parsevideo.com/)
 
 ## IT/AI/工具类
